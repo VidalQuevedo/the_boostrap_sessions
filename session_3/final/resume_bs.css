@@ -1,0 +1,28 @@
+li {
+  list-style-type: none;
+}
+
+#objective {
+  color: #666;
+  font-size: 21px;
+}
+
+#objective h2 {
+  font-size: 36px;
+}
+
+
+#experience {
+  border-top: 1px solid #CCC;
+
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
+#experience ul {
+  padding:0;
+}
+
+
+#experience img {
+  margin-top: 32px;
+}
