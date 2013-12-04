@@ -11,10 +11,13 @@ li {
   font-size: 36px;
 }
 
+#achievements {
+  border-top: 1px solid #CCC;
+  margin-top: 32px;
 
+}
 #experience {
   border-top: 1px solid #CCC;
-
   margin-top: 64px;
   margin-bottom: 64px;
 }
