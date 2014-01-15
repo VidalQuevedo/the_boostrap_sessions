@@ -1,6 +1,6 @@
-# The BootStrap Sessions
+# The Bootstrap Sessions
 
-The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitter BootStrap 3 training sessions I conducted for colleagues at University Communications.
+The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitter Bootstrap 3 training sessions I conducted for colleagues at University Communications.
 
 ## Sessions
 
@@ -14,8 +14,8 @@ The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitte
   
 - Session 3
 
-  - Intro to BoostStrap 3. Format sample resume using BS3.
+  - Intro to Bootstrap 3. Format sample resume using BS3.
   
 - Session 4
   
-  - More BootStrap. Convert sample resume into a website with a navigation bar an a carousel. 
+  - More Bootstrap. Convert sample resume into a website with a navigation bar an a carousel. 
