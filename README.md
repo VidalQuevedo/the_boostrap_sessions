@@ -1,6 +1,3 @@
-the_bootstrap_sessions
-======================
-
 # The BootStrap Sessions
 
 The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitter BootStrap 3 training sessions I conducted for colleagues at University Communications.
