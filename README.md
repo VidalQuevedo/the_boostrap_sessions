@@ -18,4 +18,8 @@ The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitte
   
 - Session 4
   
-  - More Bootstrap. Convert sample resume into a website with a navigation bar an a carousel. 
+  - More Bootstrap. Convert sample resume into a website with a navigation bar an a carousel.
+
+- Session 5
+
+	- Create a Boostrap version of Instagram. 
