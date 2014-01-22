@@ -31,5 +31,6 @@ body {
 	border:0;
 }
 
-
-
+.card-likes-toggle .btn {
+	border-right: 1px solid #CCC;
+}
