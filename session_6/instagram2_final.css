@@ -43,8 +43,12 @@ body {
 	margin-top:10px;
 }
 
-.card-comment-img {
-	margin:14px;
+.card-comment-img img {
+	padding:10px 14px;
+}
+
+.card-comment-text {
+	margin-top: 10px;
 }
 
 
