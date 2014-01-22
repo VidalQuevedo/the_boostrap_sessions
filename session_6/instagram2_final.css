@@ -27,6 +27,6 @@ body {
 }
 
 .card-likes .btn {
-	border: none;
+	border-radius: 0;
 }
 
