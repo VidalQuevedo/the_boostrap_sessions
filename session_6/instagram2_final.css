@@ -12,6 +12,7 @@ body {
 
 .card {
 	background-color: #FFF;
+	border:1px solid #CCC;
 }
 
 .card-tray {
