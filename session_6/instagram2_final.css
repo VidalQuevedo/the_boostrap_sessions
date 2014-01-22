@@ -11,7 +11,7 @@ body {
 }
 
 .card-tray {
-	padding-top:15px;
+	padding:24px;
 	border-right: 1px solid #CCC;
 	border-left: 1px solid #CCC;
 	background-color: #EEE;
