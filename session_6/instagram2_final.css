@@ -34,3 +34,10 @@ body {
 .card-likes-toggle .btn {
 	border-right: 1px solid #CCC;
 }
+
+.card-likes-options .btn {
+	border-left: 1px solid #CCC;
+}
+
+
+
