@@ -22,4 +22,8 @@ The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitte
 
 - Session 5
 
-	- Create a Boostrap version of Instagram. 
+	- Create a Bootstrap version of Instagram.
+
+- Session 6
+
+	- Add like menu and infinite scrolling to Instagram example.
