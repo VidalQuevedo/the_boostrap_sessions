@@ -53,6 +53,7 @@ body {
 
 #footer .card-tray {
 	border-bottom: 1px solid #CCC;
+	margin-bottom: 64px;
 }
 
 /*helpers*/
