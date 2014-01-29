@@ -14,7 +14,10 @@ $(document).ready(function(){
 		var dups = [];
 		// if($(window).scrollTop() + $(window).height() == $(document).height()){
 			for (i=0; i<5; i++){
-		 		$($('#content .row')[0]).clone().hide().appendTo("#content").fadeIn(300);
+		 		var $el = $($('#content .row')[0]).clone();
+		 		$el.hide().appendTo("#content");
+		 		// $el.children('.card-tray').children('.card').children('.card-image').attr('src', 'http://placekitten.com/613/613');
+		 		$el.fadeIn(300);
 			}
 		// }
 	});
