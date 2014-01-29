@@ -10,7 +10,7 @@
 // });
 
 $(document).ready(function(){
-	$('#load-more').on('click', function(){
+	$('#load-more-btn').on('click', function(){
 		var dups = [];
 		// if($(window).scrollTop() + $(window).height() == $(document).height()){
 			for (i=0; i<5; i++){
