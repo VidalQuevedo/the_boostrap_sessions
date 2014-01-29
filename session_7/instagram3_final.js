@@ -12,10 +12,10 @@
 $(document).ready(function(){
 	$('#load-more').on('click', function(){
 		var dups = [];
-		if($(window).scrollTop() + $(window).height() == $(document).height()){
+		// if($(window).scrollTop() + $(window).height() == $(document).height()){
 			for (i=0; i<5; i++){
-		 		$($('#content .row')[0]).clone().appendTo("#content");
+		 		$($('#content .row')[0]).clone().hide().appendTo("#content").fadeIn(300);
 			}
-		}
+		// }
 	});
 });
