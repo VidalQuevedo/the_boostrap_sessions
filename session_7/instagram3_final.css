@@ -51,6 +51,10 @@ body {
 	margin-top: 10px;
 }
 
+#footer .card-tray {
+	border-bottom: 1px solid #CCC;
+}
+
 /*helpers*/
 .box-shadow-inset {
 	box-shadow: inset 1px 0 0 rgba(0,0,0,.05), inset -1px 0 0 rgba(0,0,0,.05);
