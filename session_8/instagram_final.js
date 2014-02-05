@@ -16,12 +16,14 @@ $(document).ready(function(){
 		// if($(window).scrollTop() + $(window).height() == $(document).height()){
 			for (i=0; i<5; i++){
 		 		var $clone = $($('#content .row')[0]).clone();
-		 		var rand_x  = dimensions[Math.floor(Math.random() * dimensions.length)].toString();
-		 		var rand_y  = dimensions[Math.floor(Math.random() * dimensions.length)].toString();
-		 	  $clone.find('.card-image img').attr('src', 'http://placekitten.com/' + rand_x + '/' + rand_y);
+		 		var randomX  = dimensions[Math.floor(Math.random() * dimensions.length)].toString();
+		 		var randomY  = dimensions[Math.floor(Math.random() * dimensions.length)].toString();
+		 	  $clone.find('.card-image img').attr('src', 'http://placekitten.com/' + randomX + '/' + randomY);
 		 		$clone.hide().appendTo("#content");
 		 		$clone.fadeIn(300);
 			}
 		// }
 	});
+
+	var random
 });
