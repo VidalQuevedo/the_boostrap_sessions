@@ -56,6 +56,18 @@ body {
 	margin-bottom: 64px;
 }
 
+.user {
+	padding:24px 24px 8px 24px;
+}
+.user-image {
+	text-align:right;
+}
+.user-info {
+	text-align:left;
+}
+
+
+
 /*helpers*/
 .box-shadow-inset {
 	box-shadow: inset 1px 0 0 rgba(0,0,0,.05), inset -1px 0 0 rgba(0,0,0,.05);
