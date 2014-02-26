@@ -27,3 +27,10 @@ The Bootstrap Sessions contains documents from a series of HTML, CSS, and Twitte
 - Session 6
 
 	- Add like menu and infinite scrolling to Instagram example.
+
+- Session 7
+	- Complete like menu and add load button to load pictures of kittens to Instagram example.
+
+- Session 8
+	- Add user information to each image, and complete Instragram tutorial.
+
