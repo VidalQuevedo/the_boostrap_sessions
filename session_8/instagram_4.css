@@ -56,6 +56,17 @@ body {
 	margin-bottom: 64px;
 }
 
+.user {
+	padding:24px 24px 8px 24px;
+}
+.user-image {
+	text-align:right;
+}
+.user-info {
+	text-align:left;
+}
+
+
 
 /*helpers*/
 .box-shadow-inset {
